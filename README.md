@@ -4,7 +4,8 @@
 This project involves performing exploratory data analysis (EDA) on a dataset containing numerical and categorical variables. The key tasks include identifying and handling outliers, checking for normality, and visualizing the relationships between variables.
 
 ## Contents
-+ ***Contents***
+
++ ***Data Exploration***
     + Checking skewness and kurtosis of numerical columns.
     + Performing transformations to address skewness.
 + ***Outlier Detection:***
